@@ -1,6 +1,6 @@
 # my-project
 
-> A Vue.js project
+> vue+vuex+vue-router组件化编写的去哪儿的核心页面
 
 ## Build Setup
 
