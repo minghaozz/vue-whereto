@@ -1,4 +1,4 @@
-# my-project
+# vue 去哪儿
 
 > vue+vuex+vue-router组件化编写的去哪儿的核心页面
 
